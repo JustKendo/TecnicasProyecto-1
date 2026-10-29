@@ -31,8 +31,3 @@ Kendall Garro Mora
 
 
 ```Desarrollado como parte de las entregas académicas del curso de Técnicas de Programación.```
-
-
-⚠️ Nota Legal y Licenciamiento
-[!NOTE]
-Este proyecto es de código abierto y completamente no comercial. No está licenciado para uso comercial ni busca generar ningún tipo de ingreso económico. Su único propósito es servir como proyecto evaluativo y demostrativo para la materia Técnicas de Programación.
