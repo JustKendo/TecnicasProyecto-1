@@ -8,16 +8,16 @@ Este desarrollo surge estrictamente con fines educativos y de investigación den
 
 <h2 align="center">Características Principales</h2>
 
-1. Gestión de Usuarios (Socios): Registro, control de membresías, datos de contacto y seguimiento de estado activo/inactivo.
-2. Administración de Entrenadores: Asignación de personal, control de especialidades y disponibilidad horaria.
-3. Creación y Asignación de Rutinas: Diseño de planes de entrenamiento personalizados adaptados a los objetivos y niveles de cada usuario.
-4. Control Operativo Centralizado: Interfaz intuitiva y rápida para mantener la base de datos de la instalación al día.  
+- Gestión de Usuarios (Socios): Registro, control de membresías, datos de contacto y seguimiento de estado activo/inactivo.
+- Administración de Entrenadores: Asignación de personal, control de especialidades y disponibilidad horaria.
+- Creación y Asignación de Rutinas: Diseño de planes de entrenamiento personalizados adaptados a los objetivos y niveles de cada usuario.
+- Control Operativo Centralizado: Interfaz intuitiva y rápida para mantener la base de datos de la instalación al día.  
 
 <h2 align="center">Tecnologías Utilizadas</h2>
 
-Lenguaje: ```C#```
-Paradigma: Programación Orientada a Objetos (POO)
-Interfaz: Escritorio
+- Lenguaje: ```C#```
+- Paradigma: Programación Orientada a Objetos (POO)
+- Interfaz: Escritorio
 
 <h2 align="center">Instalación y Ejecución</h2>
 Si deseas clonar y probar el proyecto de manera local, sigue estos pasos:
