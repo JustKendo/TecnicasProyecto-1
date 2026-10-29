@@ -14,8 +14,9 @@ Este desarrollo surge estrictamente con fines educativos y de investigación den
 4. Control Operativo Centralizado: Interfaz intuitiva y rápida para mantener la base de datos de la instalación al día.  
 
 <h2 align="center">Tecnologías Utilizadas</h2>
-Lenguaje: ```C#\n
-Paradigma: Programación Orientada a Objetos (POO)\n
+
+Lenguaje: ```C#```
+Paradigma: Programación Orientada a Objetos (POO)
 Interfaz: Escritorio
 
 <h2 align="center">Instalación y Ejecución</h2>
