@@ -1,5 +1,5 @@
 <h1 align="center"> Fit.CR </h1>
-Software de gestión integral para gimnasios, diseñado específicamente como proyecto académico para la asignatura de Técnicas de Programación.
+Software de gestión integral para gimnasios, diseñado específicamente como proyecto académico para la asignatura de Técnicas de Programación. /n
 
 <h2 align="center">📋 Descripción del Proyecto</h2>
 GymFlow es una solución de software orientada a optimizar y simplificar la administración operativa de un gimnasio de tamaño mediano o pequeño. Permite gestionar de manera centralizada y eficiente los tres pilares fundamentales de cualquier centro de entrenamiento: usuarios, entrenadores y rutinas.
